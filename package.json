@@ -1,0 +1,11 @@
+{
+  "contributors": [
+    {
+      "name": "Denis Carriere",
+      "url": "https://github.com/DenisCarriere"
+    }
+  ],
+  "name": "@types/proj4",
+  "typeScriptVersion": "2.0",
+  "version": "2.4.3"
+}
